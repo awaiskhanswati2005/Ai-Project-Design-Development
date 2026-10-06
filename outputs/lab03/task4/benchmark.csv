@@ -1,0 +1,3 @@
+Model,Mean prediction ms,Mean inference ms,Object count,Class counts,Average confidence
+yolov8n.pt,38.47,30.96,13,"{""car"": 12, ""truck"": 1}",0.6121
+yolov8m.pt,165.42,162.03,15,"{""car"": 12, ""truck"": 1, ""person"": 2}",0.6694
